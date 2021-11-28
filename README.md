@@ -12,7 +12,7 @@ The will be stored in _public_key.pem_ && _private_key.pem_ && _commonSecret.tex
 Run first`server.py` and then`client.py`
 
 <div align="center">
-  <img src="https://github.com/mariocuomo/Socket-and-encrypted-message-using-AES-and-RSA/blob/main/example.png" width=450>
+  <img src="https://github.com/mariocuomo/Socket-and-encrypted-message-using-AES-and-RSA/blob/main/example.png">
 </div>
 
 
