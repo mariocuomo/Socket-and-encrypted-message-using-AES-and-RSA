@@ -7,7 +7,7 @@ Conversation between _client_ and _server_ using a _socket_ and encrypting messa
 
 **HOW TO EXECUTE**<br>
 Run `start.py` to create new keypair and new shared secret.<br>
-The will be stored in _public_key.pem_ && _private_key.pem_ && _commonSecret.text_.
+They will be stored in _public_key.pem_ && _private_key.pem_ && _commonSecret.text_.
 
 Run first`server.py` and then`client.py`
 
