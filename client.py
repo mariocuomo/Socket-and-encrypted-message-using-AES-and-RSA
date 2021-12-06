@@ -83,9 +83,10 @@ while message.lower().strip() != 'exit':
     except socket.timeout:
         t+=1
         if(t>3):
+            print('The server did not respond ...')
             break
         print('** No response within the expected time :( **')
         print('** Waiting for a message from the server ... ** \n')
 
 client_socket.close()
-print('The server did not respond ...')
+print('Bye...')
